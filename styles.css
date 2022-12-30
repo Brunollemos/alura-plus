@@ -115,3 +115,16 @@ body {
     font-size: 32px;
     color: var(--branco-principal);
 }
+
+.footer {
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+}
+/*
+.footer-container__item {
+    justify-content: space-between;
+}*/
